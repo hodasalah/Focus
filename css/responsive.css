@@ -1,0 +1,115 @@
+/* Start Media Queries */
+
+@media (min-width: 991px) and (max-width: 1292px) {
+    .statistics {
+        padding: 0;
+    }
+}
+
+@media (max-width: 448px) {
+    .banner-area .single-banner-txt h1 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+}
+
+@media (max-width: 991px) {
+    button.navbar-toggler {
+        background: #fff;
+    }
+
+    .navbar-collapse {
+        background-color: #fff;
+    }
+    .clients .col-md-3 {
+        border: none;
+    }
+    header a.nav-link {
+        color: gray !important;
+    }
+    .no-m {
+        margin-bottom: 30px;
+    }
+    .f-features {
+        margin-top: 100px;
+    }
+
+    .banner-area {
+        height: 100vh;
+    }
+
+    .banner-area .owl-nav .owl-prev,
+    .banner-area .owl-nav .owl-next {
+        top: 95%;
+    }
+
+    .banner-area .single-banner-txt a {
+        min-width: auto;
+        padding: 8px;
+    }
+
+    a.navbar-brand .logo {
+        font-size: 22px;
+    }
+
+    .f-feat-box {
+        margin: 0 0 35px 0;
+    }
+
+    .section-title-1 h4 {
+        font-size: 14px;
+    }
+
+    .f-feat-box.middle {
+        transform: translate(0, 0);
+    }
+
+    .section-title-1 p {
+        max-width: 100%;
+    }
+
+    .section-title-1 h2 {
+        font-size: 28px;
+    }
+
+    .team-skills {
+        margin-top: 40px;
+    }
+
+    .statistics {
+        padding: 0;
+    }
+
+    .works ul li {
+        margin-bottom: 20px;
+    }
+
+    .feature-box {
+        padding: 0 15px;
+    }
+
+    .feat-box:after {
+        content: none;
+    }
+
+    .feat-info {
+        margin: 0;
+    }
+
+    .feat-box .feature-icon {
+        position: static;
+        transform: translateY(0);
+        margin-bottom: 20px;
+    }
+
+    .contact-info {
+        margin-bottom: 50px;
+    }
+
+    form p {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+}
+
+/* End Media Queries */
