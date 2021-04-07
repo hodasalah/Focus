@@ -1,25 +1,3 @@
-/************* Main Js File ************************
-Template Name: Focus
-    Author: Hoda Salah
-    Version: 1.0
-    Copyright 2018
-*************************************************************/
-
-/*------------------------------------------------------------------------------------
-    
-JS INDEX
-=============
-
-01 - Slider Int
-02 - Scroll To Section 
-03 - Change Navbar Background And Padding
-04 - Team Carousel 
-05 - Progress bar
-06 - portfolio list
-07 - portfolio list
-08 - Testimonials Slider
--------------------------------------------------------------------------------------*/
-
 $(function () {
     "use strict";
 
